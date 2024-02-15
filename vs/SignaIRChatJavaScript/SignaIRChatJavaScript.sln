@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignaIRChatJavaScript", "SignaIRChatJavaScript\SignaIRChatJavaScript.csproj", "{2166AADD-F58C-4AF8-89F5-62222C17D44B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2166AADD-F58C-4AF8-89F5-62222C17D44B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2166AADD-F58C-4AF8-89F5-62222C17D44B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2166AADD-F58C-4AF8-89F5-62222C17D44B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2166AADD-F58C-4AF8-89F5-62222C17D44B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1AD63F0A-DEB1-483B-BC1A-1AB5BB51D0BB}
+	EndGlobalSection
+EndGlobal
